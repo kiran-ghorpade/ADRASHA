@@ -20,50 +20,47 @@
 
 
 ### Short Summary
-```
-The "ADRASHA Desktop Prototype" is Final Year Project for Bachelor of Computer Science Course of Shivaji University. It is a software solution which is an alternative solution to the repetitive written work of ASHA’s general registry. The ADRASHA will provide an effective way to manage the Accredited Social Health Activist program in India. The system will automate various processes, reducing the workload of ASHA and improving the efficiency of the program. The system will also provide a more accurate way of tracking and monitoring beneficiaries, ensuring that they receive the necessary healthcare services.
-```
+
+    The "ADRASHA Desktop Prototype" is Final Year Project for Bachelor of Computer Science Course of Shivaji University. It is a software solution which is an alternative solution to the repetitive written work of ASHA’s general registry. The ADRASHA will provide an effective way to manage the Accredited Social Health Activist program in India. The system will automate various processes, reducing the workload of ASHA and improving the efficiency of the program. The system will also provide a more accurate way of tracking and monitoring beneficiaries, ensuring that they receive the necessary healthcare services.
+
 
 
 ### Introduction -
-```
-The Accredited Social Health Activities (ASHA) program in India is a crucial initiative that aims to improve the health outcomes of underprivileged communities, especially mothers and children. However, the success of the program largely depends on the timely and accurate collection of data from the field, which is often a manual and time-consuming process.
 
-To address this challenge, this project proposes to develop Digital System that will enable ASHAs to collect and submit data in application, 
-which will facilitate quicker decision-making by ASHA through analyzed data. 
+    The Accredited Social Health Activities (ASHA) program in India is a crucial initiative that aims to improve the health outcomes of underprivileged communities, especially mothers and children. However, the success of the program largely depends on the timely and     accurate collection of data from the field, which is often a manual and time-consuming process.
 
-The ADRASHA (a short for Alternative Digital Registry for ASHA.) is a software solution which is alternative to the repetitive written work of ASHA’s general registry. The ADRASHA will provide an effective way to manage the Accredited Social Health Activist program in India. The system will automate various processes, reducing the workload of ASHA and improving the efficiency of the program. The system will also provide a more accurate way of tracking and monitoring beneficiaries, ensuring that they receive the necessary healthcare services on time. 
+    To address this challenge, this project proposes to develop Digital System that will enable ASHAs to collect and submit data in application, 
+    which will facilitate quicker decision-making by ASHA through analyzed data. 
 
-The Motive of project to help improve the healthcare services provided to underprivileged communities in India with digital way, thereby contributing to the overall improvement of healthcare in the country.
-The system is designed with a user-friendly interface that will allow ASHA workers to easily navigate through different modules.
-```
+    The ADRASHA (a short for Alternative Digital Registry for ASHA.) is a software solution which is alternative to the repetitive written work of ASHA’s general registry. The ADRASHA will provide an effective way to manage the Accredited Social Health Activist           program in India. The system will automate various processes, reducing the workload of ASHA and improving the efficiency of the program. The system will also provide a more accurate way of tracking and monitoring beneficiaries, ensuring that they receive the          necessary healthcare services on time. 
+
+    The Motive of project to help improve the healthcare services provided to underprivileged communities in India with digital way, thereby contributing to the overall improvement of healthcare in the country.
+    The system is designed with a user-friendly interface that will allow ASHA workers to easily navigate through different modules.
+
 
 ### About ADRASHA Desktop Prototype
-```
-ADRASHA System is consist of integrated modules with different platform to work together like webapps, native applications, servers to create a whole digital ecosystem.
 
-"ADRASHA Desktop Prototype" is our college project which demonstrate the idea of client application features on desktop environment. It uses .NET Framework's C# Winforms to create User Interface with Krypton Suite of .NET Winforms controls (Open source UI controls suite for C# winform).
-```
+    ADRASHA System is consist of integrated modules with different platform to work together like webapps, native applications, servers to create a whole digital ecosystem.
+
+    "ADRASHA Desktop Prototype" is our college project which demonstrate the idea of client application features on desktop environment. It uses .NET Framework's C# Winforms to create User Interface with Krypton Suite of .NET Winforms controls (Open source UI             controls suite for C# winform).
+
 
 ### Technologies Used
-```
+
     .NET Framework 4.8.1
     Microsoft Reporting Techology
     SQLite 3
 
     to be update...
-```
 
 ### USER MANUAL
 
-First when you visit to a Desktop Prototype You will find -
+    First when you visit to a Desktop Prototype You will find -
 
 ---
 1. Splash Page
 
-    ```
-    Updates All Members Data w.r.t. current date.
-    ```
+        Updates All Members Data w.r.t. current date.
     ![SplashScreen](./FlashScreen.png)
 ---
 2. Registration Form
