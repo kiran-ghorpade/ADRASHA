@@ -1,4 +1,5 @@
 # Documentation
+![ADRASHA](./Adrasha_Logo.ico)
 ### Project **ADRASHA** - Alternative Digital Registry for ASHA
     Thanks for your help and support:
         Rutik Kale
