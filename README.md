@@ -1,7 +1,7 @@
 # ADRASHA
 College Project Named as "ADRASHA -Alternative Digital Registry For Accredited Social Health Activist".
 
-# [Documentation](./Documentation/Documentation.md)
+## For Documentation [Click Here](./Documentation/Documentation.md)
 
 **Installation Instruction :**
 
