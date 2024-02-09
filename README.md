@@ -2,6 +2,7 @@
 College Project Named as "ADRASHA -Alternative Digital Registry For Accredited Social Health Activist".
 
 **Installation Instruction :**
+
 0. Open tags or goto https://github.com/Kiran-Ghorpade-0014/ADRASHA/tags.
 1. Download Zip file from latest versions.
 2. Extract it.
